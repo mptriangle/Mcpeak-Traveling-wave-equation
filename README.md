@@ -74,9 +74,9 @@ The stated condition is:
 \theta =
 \begin{cases}
 360^\circ-\theta',
-& \mathrm{if}\ \mathrm{sign}(\Delta y)=\mathrm{sign}(\Delta\theta)\\
+& \text{if sign}(\Delta y)=\text{sign}(\Delta\theta)\\
 \theta',
-& \mathrm{otherwise}
+& \text{otherwise}
 \end{cases}
 ```
 
