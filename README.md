@@ -71,15 +71,11 @@ The McPeak formulation uses the sign relationship between $\Delta y$ and $\Delta
 The stated condition is:
 
 ```math
-\boxed{
 \theta =
 \begin{cases}
-360^\circ-\theta',
-& \text{if }\operatorname{sign}(\Delta y)=\operatorname{sign}(\Delta\theta)\\[6pt]
-\theta',
-& \text{otherwise}
+360^\circ-\theta', & \text{if } \operatorname{sign}(\Delta y)=\operatorname{sign}(\Delta\theta)\\
+\theta', & \text{otherwise}
 \end{cases}
-}
 ```
 
 This condition extends the initial $0^\circ$–$180^\circ$ result to an angular position within the range $0^\circ$–$360^\circ$, subject to the sign conventions used by the system.
