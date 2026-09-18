@@ -293,27 +293,6 @@ In summary:
 
 ---
 
-## 10. Suggested Repository Structure
-
-A GitHub repository documenting the formulation could use the following structure:
-
-```text
-mcpeak-traveling-wave-equation/
-├── README.md
-├── LICENSE
-├── docs/
-│   ├── geometric-foundation.md
-│   ├── calculation-process.md
-│   └── validation-methodology.md
-├── figures/
-│   ├── mcpeak-triangle.png
-│   └── angle-conventions.png
-├── examples/
-│   ├── example-calculation.md
-│   └── example-data.csv
-└── simulations/
-    └── README.md
-```
 
 ## License
 
