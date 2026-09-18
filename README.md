@@ -73,8 +73,10 @@ The stated condition is:
 ```math
 \theta =
 \begin{cases}
-360^\circ-\theta', & \text{if } \operatorname{sign}(\Delta y)=\operatorname{sign}(\Delta\theta)\\
-\theta', & \text{otherwise}
+360^\circ-\theta',
+& \mathrm{if}\ \mathrm{sign}(\Delta y)=\mathrm{sign}(\Delta\theta)\\
+\theta',
+& \mathrm{otherwise}
 \end{cases}
 ```
 
