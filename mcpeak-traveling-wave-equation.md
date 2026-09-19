@@ -28,7 +28,16 @@ $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
 
-### Where:
+Where:
+##Symbol	  ##Description
+$$
+\Delta\theta$$  & \textPhase difference
+$$
+$$
+\Delta t$	Measured time difference
+$T$	Wave period
+$$
+
 
 The period of a wave is:
 
