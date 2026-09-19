@@ -189,165 +189,123 @@ The McPeak Traveling Wave Equation is intended to explore phase measurement acro
 
 The applicability of the approach depends on whether a measurable magnitude-to-phase relationship can be established for the wave under examination.
 
+
 ### 6.1 Electromagnetic Waves
 
-Examples include:
+**Examples include:**
 
-Radio waves
+- Radio waves
+- Microwave signals
+- Millimeter waves
+- Terahertz radiation
+- Infrared radiation
+- Visible light
+- Ultraviolet radiation
 
-Microwave signals
+**Potential applications:**
 
-Millimeter waves
+- Communications
+- Radar
+- Electromagnetic sensing
+- Imaging
+- Signal synchronization
+- Electromagnetic system control
 
-Terahertz radiation
-
-Infrared radiation
-
-Visible light
-
-Ultraviolet radiation
-
-Potential applications:
-
-Communications
-
-Radar
-
-Electromagnetic sensing
-
-Imaging
-
-Signal synchronization
-
-Electromagnetic system control
 
 ### 6.2 Electrical Signals
 
-Examples include:
+**Examples include:**
 
-Alternating-current voltage
+- Alternating-current voltage
+- Alternating-current
+- Electrical power waveforms
+- Transmission-line signals
+- High-frequency electronic signals
+- Oscillating electrical fields
 
-Alternating-current
+**Potential applications:**
 
-Electrical power waveforms
+- Power-system monitoring
+- Electrical instrumentation
+- Signal processing
+- Electronic synchronization
+- Power-quality analysis
 
-Transmission-line signals
-
-High-frequency electronic signals
-
-Oscillating electrical fields
-
-Potential applications:
-
-Power-system monitoring
-
-Electrical instrumentation
-
-Signal processing
-
-Electronic synchronization
-
-Power-quality analysis
 
 ### 6.3 Mechanical Waves
 
-Examples include:
+**Examples include:**
 
-Mechanical vibrations
+- Mechanical vibrations
+- Elastic waves
+- Structural oscillations
+- Seismic waves
+- Surface waves
+- Material stress waves
 
-Elastic waves
+**Potential applications:**
 
-Structural oscillations
+- Structural health monitoring
+- Vibration analysis
+- Mechanical sensing
+- Material testing
+- Seismic measurement
 
-Seismic waves
-
-Surface waves
-
-Material stress waves
-
-Potential applications:
-
-Structural health monitoring
-
-Vibration analysis
-
-Mechanical sensing
-
-Material testing
-
-Seismic measurement
 
 ### 6.4 Acoustic Waves
 
-Examples include:
+**Examples include:**
 
 Audible sound
-
 Ultrasonic waves
-
 Infrasound
-
 Acoustic pressure waves
-
 Underwater sound waves
 
-Potential applications:
+**Potential applications:**
 
 Acoustic sensing
-
 Ultrasonic imaging
-
 Sonar
-
 Structural inspection
-
 Vibration monitoring
+
 
 ### 6.5 Optical Waves
 
-Examples include:
+**Examples include:**
 
 Laser light
-
 Fiber-optic signals
-
 Coherent optical signals
-
 Interferometric light fields
 
-Potential applications:
+**Potential applications:**
 
 Optical communications
-
 Interferometry
-
 Precision measurement
-
 Fiber-optic sensing
-
 Laser stabilization
+
 
 ### 6.6 Matter Waves and Quantum Systems
 
-Examples include:
+**Examples include:**
 
 Electron wave phenomena
-
 Matter-wave interference
-
 Atomic wave behavior
-
 Quantum oscillations
 
-Potential applications:
+**Potential applications:**
 
 Quantum measurement research
-
 Matter-wave interferometry
-
 Quantum sensing
 
-Note: Applying the McPeak framework to quantum systems would require a formulation consistent with quantum mechanics and experimental validation.
+**Note:**
+Applying the McPeak framework to quantum systems would require a formulation consistent with quantum mechanics and experimental validation.
 
 ## 7. The Role of Phase in Modern Technology
 
