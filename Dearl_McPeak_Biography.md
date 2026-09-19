@@ -83,7 +83,7 @@ He also established a reference position from which the wave's magnitude and pha
 
 The basic equation associated with his work is:
 
-Δy=±Δθ⋅h⋅cos⁡(θ)
+**Δy=±Δθ⋅h⋅cos⁡(θ)**
 
 **Where:**
 
@@ -105,15 +105,12 @@ He also emphasizes that the equation is intended to help describe a wave's magni
 
 ### A Distinctive Feature of the Concept
 
-An important feature of McPeak's explanation is his distinction between:
+**An important feature of McPeak's explanation is his distinction between:**
 
-A wave's magnitude relative to a reference.
-
-A wave's phase relative to that reference.
-
-The change in magnitude resulting from a change in phase.
-
-The physical loss of signal strength that can occur during transmission.
+- A wave's magnitude relative to a reference.
+- A wave's phase relative to that reference.
+- The change in magnitude resulting from a change in phase.
+- The physical loss of signal strength that can occur during transmission.
 
 His stated objective is to use geometric relationships to examine wave behavior without making elapsed time the central variable in the basic equation.
 
@@ -121,7 +118,7 @@ The mathematical and physical scope of these distinctions should be evaluated in
 
 ## 3. Development of the McPeak Traveling Wave Equation
 
-McPeak distinguishes between the McPeak Triangle Equation and the McPeak Traveling Wave Equation.
+McPeak distinguishes between the **McPeak Triangle Equation** and **the McPeak Traveling Wave Equation**.
 
 The Triangle Equation represents the basic geometric relationship.
 
