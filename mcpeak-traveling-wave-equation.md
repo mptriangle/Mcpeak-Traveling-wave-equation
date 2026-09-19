@@ -28,10 +28,14 @@ $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
 
-Where:
-$$
-\Delta\theta$$  & \textPhase difference
-$$
+### Where:
+
+| **Symbol** | **Description** |
+|:---:|---|
+| $\Delta\theta$ | Phase difference |
+| $\Delta t$ | Measured time difference |
+| $T$ | Wave period |
+
 $$
 \Delta t$	Measured time difference
 $T$	Wave period
