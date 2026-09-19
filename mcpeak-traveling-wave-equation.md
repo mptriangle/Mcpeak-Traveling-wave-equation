@@ -150,9 +150,9 @@ The McPeak Traveling Wave Equation builds upon the McPeak Triangle Equation by i
 
 The framework is intended to address the interpretation of phase changes across a complete 360-degree cycle.
 
-Phase-Angle Determination
+### Phase-Angle Determination
 
-The phase-angle logic is expressed as:
+**The phase-angle logic is expressed as:**
 
 $$
 \theta =
@@ -161,7 +161,7 @@ $$
 \end{cases}
 $$
 
-### Where:
+**Where:**
 
 This logic is intended to determine the appropriate angular interpretation based on the direction of the measured magnitude change and the phase change.
 
