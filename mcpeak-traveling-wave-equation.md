@@ -115,7 +115,7 @@ The McPeak Triangle Equation represents the foundational geometric relationship 
 The equation is:
 
 $$
-Δy=±Δθ⋅h⋅cos⁡(θ)\boxed{\Delta y = \pm \Delta\theta \cdot h \cdot \cos(\theta)}
+Δy=±Δθ⋅h⋅cos⁡(θ)
 $$
 
 ### Where:
