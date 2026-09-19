@@ -145,8 +145,7 @@ The phase-angle logic is expressed as:
 $$
 \theta =
 \begin{cases}
-360^\circ - \theta', & \text{if sign}(\Delta y) = \text{sign}(\Delta\theta), \\[6pt]
-\theta', & \text{otherwise}
+360^\circ - \theta', & \text{if sign}(\Delta y) = \text{sign}(\Delta\theta), \theta', & \text{otherwise}
 \end{cases}
 $$
 
