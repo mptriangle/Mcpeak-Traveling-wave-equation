@@ -36,11 +36,6 @@ $$
 | $\Delta t$ | Measured time difference |
 | $T$ | Wave period |
 
-$$
-\Delta t$	Measured time difference
-$T$	Wave period
-$$
-
 
 The period of a wave is:
 
