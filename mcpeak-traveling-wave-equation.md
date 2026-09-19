@@ -8,11 +8,11 @@
 
 ## 1. Overview
 
-The McPeak Traveling Wave Equation was developed by Dearl McPeak to explore a method for achieving finer phase measurements of different types of waves without relying exclusively on time-based measurements.
+The **McPeak Traveling Wave Equation** was developed by Dearl McPeak to explore a method for achieving finer phase measurements of different types of waves without relying exclusively on time-based measurements.
 
 The concept originated in 2012 while investigating how to measure the phase of a traveling wave at any point in space.
 
-The primary objective is to investigate whether wave magnitude, measured relative to a reference, can provide a more precise basis for determining phase than measuring extremely small fractions of time.
+The primary objective is to investigate **whether wave magnitude, measured relative to a reference, can provide a more precise basis for determining phase than measuring extremely small fractions of time.**
 
 This approach is intended to be applicable to multiple types of waves, including electromagnetic, electrical, mechanical, acoustic, optical, and other wave phenomena.
 
