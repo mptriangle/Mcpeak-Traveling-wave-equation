@@ -50,7 +50,15 @@ $f$ is frequency.
 
 As frequency increases, the period decreases. Consequently, measuring a small phase difference requires resolving increasingly small time intervals.
 
-For example, one degree of phase corresponds to the following time intervals:
+For example, **one degree of phase** corresponds to the following time intervals:
+
+| **Frequency** | **Wave Period** | **Time Equivalent of 1°** |
+|:---:|:---:|:---:|
+| 1 Hz | 1 second | 2.78 ms |
+| 1 kHz | 1 ms | 2.78 μs |
+| 1 MHz | 1 μs | 2.78 ns |
+| 1 GHz | 1 ns | 2.78 ps |
+| 100 GHz | 10 ps | 27.8 fs |
 
 As frequencies increase, the time intervals associated with small phase differences become increasingly difficult to measure accurately.
 
