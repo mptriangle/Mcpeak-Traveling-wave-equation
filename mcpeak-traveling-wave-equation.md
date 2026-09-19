@@ -6,16 +6,6 @@
 - **Origin:** 2012
 - **Field:** Advanced Systems Engineering, Wave Measurement, and Phase Analysis
 
-You can copy this directly into GitHub's Markdown editor.
-
-McPeak Traveling Wave Equation
-
-A Magnitude-Based Approach to Finer Phase Measurement Across Wave Types
-
-Creator: Dearl McPeak
-Origin: 2012
-Field: Advanced Systems Engineering, Wave Measurement, and Phase Analysis
-
 ## 1. Overview
 
 The McPeak Traveling Wave Equation was developed by Dearl McPeak to explore a method for achieving finer phase measurements of different types of waves without relying exclusively on time-based measurements.
