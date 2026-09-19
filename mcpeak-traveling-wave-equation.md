@@ -76,33 +76,21 @@ A wave's magnitude can be expressed through different physical quantities, depen
 
 Examples include:
 
-Wave height
+- Wave height
+- Displacement
+- Amplitude
+- Voltage
+- Current
+- Electrical power
+- Electromagnetic-field strength
+- Acoustic pressure
+- Sound intensity
+- Mechanical force
+- Fluid-wave elevation
+- Optical intensity
+- Other measurable wave-related quantities
 
-Displacement
-
-Amplitude
-
-Voltage
-
-Current
-
-Electrical power
-
-Electromagnetic-field strength
-
-Acoustic pressure
-
-Sound intensity
-
-Mechanical force
-
-Fluid-wave elevation
-
-Optical intensity
-
-Other measurable wave-related quantities
-
-Magnitude and Time
+### Magnitude and Time
 
 Magnitude is a measurable physical quantity that can be expressed independently of elapsed time.
 
