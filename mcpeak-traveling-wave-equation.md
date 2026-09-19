@@ -66,7 +66,7 @@ As frequencies increase, the time intervals associated with small phase differen
 
 The McPeak Traveling Wave Equation was developed to investigate whether phase measurement can be based on measurable wave magnitudes rather than depending exclusively on the ability to resolve increasingly small time intervals.
 
-The objective is to explore a measurement approach in which phase resolution is influenced by the precision of magnitude measurement rather than solely by the precision of time measurement.
+**The objective is to explore a measurement approach in which phase resolution is influenced by the precision of magnitude measurement rather than solely by the precision of time measurement.**
 
 ## 3. Magnitude as a Basis for Phase Measurement
 
