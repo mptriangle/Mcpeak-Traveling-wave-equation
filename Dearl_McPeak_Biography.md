@@ -87,13 +87,13 @@ The basic equation associated with his work is:
 
 **Where:**
 
-Δy\Delta y represents the change in the resultant or measured magnitude.
+**Δy** represents the change in the resultant or measured magnitude.
 
-Δθ\Delta\theta represents a change in phase angle.
+**Δθ** represents a change in phase angle.
 
-hh represents the wave magnitude.
+**h** represents the wave magnitude.
 
-θ\theta represents the relevant phase angle.
+**θ** represents the relevant phase angle.
 
 The positive or negative sign represents the direction of change.
 
