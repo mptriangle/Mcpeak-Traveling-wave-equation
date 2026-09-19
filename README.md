@@ -6,7 +6,7 @@ The **McPeak Traveling Wave Equation** is a proposed geometric, magnitude-based 
 
 The fundamental relationship is:
 
-$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cos(\theta)} $$
+$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cdot cos(\theta)} $$
 
 The McPeak approach connects traveling-wave characteristics to the geometry of a right triangle. Rather than retaining time as an explicit variable in the traveling-wave relationship, the method uses measured **wave magnitudes and their geometric relationships** to determine angular displacement.
 
