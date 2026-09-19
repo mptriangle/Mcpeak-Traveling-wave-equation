@@ -74,7 +74,7 @@ The McPeak Traveling Wave Equation uses the relationship between wave magnitude 
 
 A wave's magnitude can be expressed through different physical quantities, depending on the type of wave being measured.
 
-Examples include:
+**Examples include:**
 
 - Wave height
 - Displacement
@@ -94,11 +94,24 @@ Examples include:
 
 Magnitude is a measurable physical quantity that can be expressed independently of elapsed time.
 
-For example:
+**For example:**
+
+| **Physical Quantity** | **Unit** |
+|:---|:---|
+| Voltage | Volts (V) |
+| Current | Amperes (A) |
+| Power | Watts (W) |
+| Wave height | Meters (m) |
+| Acoustic pressure | Pascals (Pa) |
+| Electromagnetic-field strength | Volts per meter (V/m) |
+| Displacement | Meters (m) |
+| Force | Newtons (N) |
 
 The McPeak approach explores whether these measurable quantities can be used with a reference wave and geometric relationships to determine phase with finer resolution.
 
-Important: Although magnitude can be measured as a physical quantity without directly measuring elapsed time, the relationship between magnitude and phase depends on the wave, reference, and measurement conditions.
+**Important:** 
+
+Although magnitude can be measured as a physical quantity without directly measuring elapsed time, the relationship between magnitude and phase depends on the wave, reference, and measurement conditions.
 
 ## 4. The McPeak Triangle Equation
 
