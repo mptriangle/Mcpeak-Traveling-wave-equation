@@ -142,7 +142,13 @@ Phase-Angle Determination
 
 The phase-angle logic is expressed as:
 
-θ={360∘−θ′,if sign⁡(Δy)=sign⁡(Δθ)θ′,otherwise\theta = \begin{cases} 360^\circ-\theta', & \text{if } \operatorname{sign}(\Delta y) = \operatorname{sign}(\Delta\theta) \\[6pt] \theta', & \text{otherwise} \end{cases}
+$$
+\theta =
+\begin{cases}
+360^\circ - \theta', & \text{if } \operatorname{sign}(\Delta y) = \operatorname{sign}(\Delta\theta), \\[6pt]
+\theta', & \text{otherwise}
+\end{cases}
+$$
 
 ### Where:
 
