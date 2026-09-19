@@ -24,6 +24,7 @@ In conventional wave analysis, phase differences can be determined by measuring 
 
 
 The relationship between phase and time is:
+
 $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
@@ -36,9 +37,11 @@ $$
 | $T$ | Wave period |
 
 **The period of a wave is:**
+
 $$
 T = \frac{1}{f}
 $$
+
 **Where:**
 $f$ is frequency.
 
