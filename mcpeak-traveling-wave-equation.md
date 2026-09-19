@@ -22,28 +22,25 @@ This approach is intended to be applicable to multiple types of waves, including
 
 In conventional wave analysis, phase differences can be determined by measuring the time difference between a signal and a reference.
 
-The relationship between phase and time is:
 
+The relationship between phase and time is:
 $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
 
 **Where**
-
 | **Symbol** | **Description** |
 |:---:|---|
 | $\Delta\theta$ | Phase difference |
 | $\Delta t$ | Measured time difference |
 | $T$ | Wave period |
 
-
 **The period of a wave is:**
-
 $$
 T = \frac{1}{f}
 $$
-
-Where $f$ is frequency.
+**Where:**
+$f$ is frequency.
 
 ### Why Higher Frequencies Create Measurement Challenges
 
