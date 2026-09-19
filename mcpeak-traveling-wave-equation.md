@@ -28,7 +28,7 @@ $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
 
-## Where:
+# Where:
 
 | **Symbol** | **Description** |
 |:---:|---|
