@@ -16,13 +16,15 @@ McPeak's professional interests encompass electromagnetic systems, electronic ar
 
 His work has included commercial, government, defense, and advanced research environments. His professional website identifies him as an advanced electromagnetic systems engineer and inventor, with technical interests spanning phase-coherent electronic systems, distributed electromagnetic architectures, and advanced detection and power systems. (Dear L McPeak)
 
+---
+
 ## 1. Professional Background
 
 Dearl McPeak's professional career has centered on the design, development, and analysis of complex electronic and electromagnetic systems.
 
 As an advanced systems engineer, his work has involved looking beyond individual electronic components to examine how entire systems interact, communicate, measure, and transfer energy.
 
-His stated areas of professional interest include:
+**His stated areas of professional interest include:**
 
 - Electromagnetic systems engineering
 - Radio-frequency and electronic system architectures
@@ -34,19 +36,20 @@ His stated areas of professional interest include:
 - Synchronization and timing systems
 - Wave-based control systems
 - Advanced research and development
+
 McPeak's approach emphasizes understanding the relationships among signal magnitude, phase, timing, and spatial position.
 
 Rather than focusing exclusively on conventional signal amplification or frequency-domain analysis, his work explores how geometric and phase relationships can contribute to the design and analysis of electronic systems.
 
-His professional website describes his work as spanning commercial, government, defense, and advanced research applications. Specific projects, technical implementations, and results should be distinguished from the publicly documented portions of his professional record. (Dear L McPeak)
+His professional website describes his work as spanning commercial, government, defense, and advanced research applications. Specific projects, technical implementations, and results should be distinguished from the publicly documented portions of his professional record.
 
 ## 2. Creation of the McPeak Triangle Equation in 2012
 
 ### The Original Engineering Problem
 
-In 2012, Dearl McPeak began investigating a fundamental question:
+**In 2012, Dearl McPeak began investigating a fundamental question:**
 
-How can the phase of a traveling wave be measured at any point in space?
+**How can the phase of a traveling wave be measured at any point in space?**
 
 The problem involved finding a practical way to determine the phase of a traveling wave by comparing it with a reference wave.
 
@@ -56,15 +59,13 @@ His objective was to develop a method that could relate a wave's magnitude to it
 
 ### The Development of the Geometric Concept
 
-According to McPeak's account, he initially considered an analogy involving:
+**Per McPeak's account, he applied an analogy involving:**
 
-A ruler used to measure physical distance.
+1. A ruler used to measure physical distance.
+2. A reference sine wave used to establish a phase relationship.
+3. A traveling wave whose phase could be determined relative to that reference.
 
-A reference sine wave used to establish a phase relationship.
-
-A measured wave whose phase could be determined relative to that reference.
-
-After approximately four days of exploring the problem, he recognized that a right triangle could provide a useful geometric representation of the relationship between wave magnitude and phase.
+After approximately four days of exploring the problem, he recognized that **a right triangle could provide a useful geometric representation of the relationship between wave magnitude and phase.**
 
 This insight led to the development of the McPeak Triangle concept.
 
