@@ -46,7 +46,7 @@ $$
 $f$ is frequency.
 
 
-# Why Higher Frequencies Create Measurement Challenges
+### Why Higher Frequencies Create Measurement Challenges
 
 As frequency increases, the period decreases. Consequently, measuring a small phase difference requires resolving increasingly small time intervals.
 
@@ -54,7 +54,7 @@ For example, one degree of phase corresponds to the following time intervals:
 
 As frequencies increase, the time intervals associated with small phase differences become increasingly difficult to measure accurately.
 
-# The Engineering Objective
+### The Engineering Objective
 
 The McPeak Traveling Wave Equation was developed to investigate whether phase measurement can be based on measurable wave magnitudes rather than depending exclusively on the ability to resolve increasingly small time intervals.
 
