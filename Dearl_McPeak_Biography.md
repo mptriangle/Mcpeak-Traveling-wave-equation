@@ -62,8 +62,10 @@ His objective was to develop a method that could relate a wave's magnitude to it
 **Per McPeak's account, he applied an analogy involving:**
 
 **1.** A ruler used to measure physical distance.
-**2. A reference sine wave used to establish a phase relationship.
-**3. A traveling wave whose phase could be determined relative to that reference.
+
+**2.** A reference sine wave used to establish a phase relationship.
+
+**3.** A traveling wave whose phase could be determined relative to that reference.
 
 After approximately four days of exploring the problem, he recognized that **a right triangle could provide a useful geometric representation of the relationship between wave magnitude and phase.**
 
