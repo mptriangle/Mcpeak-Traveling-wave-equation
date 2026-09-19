@@ -45,6 +45,7 @@ $$
 **Where:**
 $f$ is frequency.
 
+
 ### Why Higher Frequencies Create Measurement Challenges
 
 As frequency increases, the period decreases. Consequently, measuring a small phase difference requires resolving increasingly small time intervals.
