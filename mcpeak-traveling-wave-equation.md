@@ -443,27 +443,21 @@ The McPeak Traveling Wave Equation is intended to explore whether phase resoluti
 
 **The central concept is:**
 
-A wave's phase can be determined from its relationship to a reference. If that relationship can be measured through magnitude with sufficient precision, phase resolution may not be limited exclusively by the smallest time interval an instrument can resolve.
+**A wave's phase can be determined from its relationship to a reference. If that relationship can be measured through magnitude with sufficient precision, phase resolution may not be limited exclusively by the smallest time interval an instrument can resolve.**
 
 This concept is intended to apply to a broad range of wave types and measurement systems.
 
 ### Potential Advantages Under Investigation
 
-Reduced dependence on extremely fine time measurements.
+- Reduced dependence on extremely fine time measurements.
+- Exploration of finer phase resolution.
+- Application to different physical wave quantities.
+- Potential improvements in phase-sensitive instrumentation.
+- New approaches to wave measurement and analysis.
+- Potential applications in high-frequency systems.
+- Investigation of phase relationships in distributed systems.
 
-Exploration of finer phase resolution.
-
-Application to different physical wave quantities.
-
-Potential improvements in phase-sensitive instrumentation.
-
-New approaches to wave measurement and analysis.
-
-Potential applications in high-frequency systems.
-
-Investigation of phase relationships in distributed systems.
-
-These are potential advantages under investigation, not established performance results.
+These are **potential advantages under investigation**, not established performance results.
 
 ---
 
@@ -473,27 +467,19 @@ The McPeak Traveling Wave Equation is a mathematical framework for exploring pha
 
 Practical phase-measurement accuracy depends on more than the equation itself.
 
-Important factors include:
+**Important factors include:**
 
-Measurement noise
+- Measurement noise
+- Sensor accuracy
+- Analog-to-digital converter resolution
+- Reference-wave stability
+- Calibration
+- Signal distortion
+- Environmental conditions
+- Measurement bandwidth
+- Waveform characteristics
+- Magnitude-to-phase relationships
 
-Sensor accuracy
-
-Analog-to-digital converter resolution
-
-Reference-wave stability
-
-Calibration
-
-Signal distortion
-
-Environmental conditions
-
-Measurement bandwidth
-
-Waveform characteristics
-
-Magnitude-to-phase relationships
 
 ### Important Technical Distinction
 
@@ -501,51 +487,40 @@ Magnitude does not universally provide a unique phase measurement.
 
 For example, a sinusoidal signal can have the same magnitude at multiple phase positions within a cycle.
 
-Therefore, a magnitude-based phase-measurement method requires additional information, such as:
+**Therefore, a magnitude-based phase-measurement method requires additional information, such as:**
 
-A known reference.
-
-Directional information.
-
-A defined measurement geometry.
-
-A known waveform.
-
-Appropriate sign information.
-
-Additional measurements when necessary.
+- A known reference.
+- Directional information.
+- A defined measurement geometry.
+- A known waveform.
+- Appropriate sign information.
+- Additional measurements when necessary.
 
 The McPeak Traveling Wave Equation incorporates directional logic intended to address phase-angle interpretation.
 
 The effectiveness of this approach must be established through mathematical analysis and experimental testing.
 
+---
+
 ## 10. Research and Development Objectives
 
-The continuing objectives of the McPeak Traveling Wave Equation project include:
+**The continuing objectives of the McPeak Traveling Wave Equation project include:**
 
-Documenting the mathematical foundation of the McPeak Triangle Equation.
-
-Defining the complete McPeak Traveling Wave Equation.
-
-Explaining the geometric relationships used in phase measurement.
-
-Investigating magnitude-based phase-resolution techniques.
-
-Exploring applicability across different types of waves.
-
-Examining potential applications in modern technologies.
-
-Developing educational diagrams and calculation examples.
-
-Identifying measurement limitations.
-
-Encouraging technical review and independent validation.
+- Documenting the mathematical foundation of the McPeak Triangle Equation.
+- Defining the complete McPeak Traveling Wave Equation.
+- Explaining the geometric relationships used in phase measurement.
+- Investigating magnitude-based phase-resolution techniques.
+- Exploring applicability across different types of waves.
+- Examining potential applications in modern technologies.
+- Developing educational diagrams and calculation examples.
+- Identifying measurement limitations.
+- Encouraging technical review and independent validation.
 
 ## 11. Conclusion
 
 The McPeak Traveling Wave Equation was developed to explore a different approach to measuring the phase of traveling waves.
 
-Its central objective is to investigate whether precise measurements of wave magnitude can support finer phase resolution than methods that rely exclusively on measuring increasingly small fractions of time.
+Its central objective is to investigate whether **precise measurements of wave magnitude can support finer phase resolution than methods that rely exclusively on measuring increasingly small fractions of time.**
 
 The concept is intended to be applicable to multiple wave types, including electromagnetic, electrical, mechanical, acoustic, optical, and other wave phenomena.
 
@@ -557,9 +532,9 @@ Further mathematical development, experimental testing, and comparison with esta
 
 ## 12. Author and Project Information
 
-Creator: Dearl McPeak
-Project: McPeak Traveling Wave Equation
-Original Development: 2012
-Primary Focus: Magnitude-based phase measurement
-Areas of Interest: Wave measurement, electromagnetic systems, signal analysis, and advanced engineering
+**Creator:** Dearl McPeak
+**Project:** McPeak Traveling Wave Equation
+**Original Development:** 2012
+**Primary Focus:** Magnitude-based phase measurement
+**Areas of Interest:** Wave measurement, electromagnetic systems, signal analysis, and advanced engineering
 
