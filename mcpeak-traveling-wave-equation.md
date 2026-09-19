@@ -110,20 +110,27 @@ Magnitude is a measurable physical quantity that can be expressed independently 
 The McPeak approach explores whether these measurable quantities can be used with a reference wave and geometric relationships to determine phase with finer resolution.
 
 **Important:** 
-
 Although magnitude can be measured as a physical quantity without directly measuring elapsed time, the relationship between magnitude and phase depends on the wave, reference, and measurement conditions.
 
 ## 4. The McPeak Triangle Equation
 
 The McPeak Triangle Equation represents the foundational geometric relationship within the McPeak framework.
 
-The equation is:
+**The equation is:**
 
 $$
 Δy=±Δθ⋅h⋅cos⁡(θ)
 $$
 
-### Where:
+**Where:**
+
+| **Symbol** | **Description** |
+|:---:|:---|
+| $\Delta y$ | Change in resultant magnitude |
+| $\Delta\theta$ | Change in phase angle |
+| $h$ | Wave magnitude |
+| $\theta$ | Phase angle |
+| $\pm$ | Direction of magnitude change |
 
 The equation is based on the use of a right-triangle relationship to represent the relationship between magnitude and phase.
 
