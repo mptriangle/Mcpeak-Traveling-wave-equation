@@ -6,6 +6,8 @@
 - **Origin:** 2012
 - **Field:** Advanced Systems Engineering, Wave Measurement, and Phase Analysis
 
+  ---
+
 ## 1. Overview
 
 The **McPeak Traveling Wave Equation** was developed by Dearl McPeak to explore a method for achieving finer phase measurements of different types of waves without relying exclusively on time-based measurements.
@@ -275,34 +277,34 @@ The applicability of the approach depends on whether a measurable magnitude-to-p
 
 **Examples include:**
 
--Laser light
--Fiber-optic signals
--Coherent optical signals
--Interferometric light fields
+- Laser light
+- Fiber-optic signals
+- Coherent optical signals
+- Interferometric light fields
 
 **Potential applications:**
 
--Optical communications
--Interferometry
--Precision measurement
--Fiber-optic sensing
--Laser stabilization
+- Optical communications
+- Interferometry
+- Precision measurement
+- Fiber-optic sensing
+- Laser stabilization
 
 
 ### 6.6 Matter Waves and Quantum Systems
 
 **Examples include:**
 
--Electron wave phenomena
--Matter-wave interference
--Atomic wave behavior
--Quantum oscillations
+- Electron wave phenomena
+- Matter-wave interference
+- Atomic wave behavior
+- uantum oscillations
 
 **Potential applications:**
 
--Quantum measurement research
--Matter-wave interferometry
--Quantum sensing
+- Quantum measurement research
+- Matter-wave interferometry
+- Quantum sensing
 
 **Note:**
 Applying the McPeak framework to quantum systems would require a formulation consistent with quantum mechanics and experimental validation.
@@ -315,131 +317,108 @@ It is used to measure relationships between signals, determine timing difference
 
 The McPeak Traveling Wave Equation is intended to explore whether finer phase measurements could improve the precision of technologies that already depend on phase information.
 
+
 ### 7.1 Communications
 
-Phase is used in:
+**Phase is used in:**
 
 Phase-shift keying (PSK)
-
 Quadrature amplitude modulation (QAM)
-
 Coherent optical communications
-
 Carrier synchronization
-
 Phase-locked loops
-
 Software-defined radio
-
 Wireless communication systems
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 More precise phase information could support improved synchronization, signal characterization, and analysis of phase-related errors.
 
+
 ### 7.2 Radar and Remote Sensing
 
-Phase is used in:
+**Phase is used in:**
 
 Radar ranging
-
 Doppler measurements
-
 Synthetic-aperture radar
-
 Interferometric radar
-
 Coherent detection
-
 Motion measurement
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 Finer phase measurements could potentially support more precise motion detection, distance measurements, and environmental monitoring.
 
+
 ### 7.3 Navigation and Positioning
 
-Phase is used in:
+**Phase is used in:**
 
 Carrier-phase GNSS positioning
-
 Radio navigation
-
 Interferometric positioning
-
 Precision timing
-
 Phase-based distance measurement
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 More precise phase information could contribute to improved positioning and timing when other sources of error are controlled.
 
+
 ### 7.4 Electrical Power Systems
 
-Phase is fundamental to:
+**Phase is fundamental to:**
 
 AC power transmission
-
 Three-phase power systems
-
 Power-factor measurement
-
 Grid synchronization
-
 Phasor measurement units
-
 Power-quality monitoring
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 Improved phase resolution could support more precise monitoring and control of electrical power systems.
 
+
 ### 7.5 Instrumentation and Signal Processing
 
-Phase measurements are used in:
+**Phase measurements are used in:**
 
 Network analyzers
-
 Lock-in amplifiers
-
 Frequency-response analyzers
-
 Digital signal processing
-
 Impedance measurement
-
 Scientific instrumentation
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 More precise phase measurements could improve the characterization of electronic components, systems, and signal behavior.
 
+
 ### 7.6 Optical and Photonic Technologies
 
-Phase is important in:
+**Phase is important in:**
 
 Optical interferometry
-
 Fiber-optic communications
-
 Coherent optical detection
-
 Laser stabilization
-
 Optical sensing
-
 Holography
 
-Potential benefit of improved phase measurement:
+**Potential benefit of improved phase measurement:**
 
 Finer phase measurements could support precision optical sensing and measurement applications, depending on the measurement method and system limitations.
+
 
 ## 8. Why Magnitude-Based Phase Measurement Matters
 
 The McPeak Traveling Wave Equation is intended to explore whether phase resolution can be improved by using precise magnitude measurements instead of relying exclusively on extremely small time intervals.
 
-The central concept is:
+**The central concept is:**
 
 A wave's phase can be determined from its relationship to a reference. If that relationship can be measured through magnitude with sufficient precision, phase resolution may not be limited exclusively by the smallest time interval an instrument can resolve.
 
