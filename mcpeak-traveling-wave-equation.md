@@ -44,7 +44,7 @@ $$
 
 The period of a wave is:
 
-$T = \frac{1}{f}$T = \frac{1}{f}
+$$T = \frac{1}{f}$T = \frac{1}{f}$$
 
 Where $f$ is frequency.
 
