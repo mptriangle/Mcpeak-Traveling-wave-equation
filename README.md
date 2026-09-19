@@ -84,9 +84,7 @@ This condition extends the initial $0^\circ$–$180^\circ$ result to an angular 
 
 The fundamental McPeak relationship is:
 
-$$
-\boxed{\Delta y=\pm\Delta\theta\,h\cos(\theta)}
-$$
+$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cdot cos(\theta)} $$
 
 Where:
 
@@ -275,9 +273,7 @@ The **McPeak Traveling Wave Equation** presents a proposed magnitude-based geome
 
 Its fundamental relationship is:
 
-$$
-\boxed{\Delta y=\pm\Delta\theta\,h\cos(\theta)}
-$$
+$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cdot cos(\theta)} $$
 
 The process begins by measuring the magnitudes of the traveling wave, resultant wave, and reference wave. These measurements are used to establish a geometric relationship from which an initial angle is calculated. A sign-based condition is then used to identify the corresponding angular position within a full $360^\circ$ range.
 
@@ -291,7 +287,3 @@ In summary:
 
 ---
 
-
-## License
-
-Add a license file to the repository that reflects how you want others to use, modify, and redistribute the material.
