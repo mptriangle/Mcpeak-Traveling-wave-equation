@@ -116,6 +116,8 @@ His stated objective is to use geometric relationships to examine wave behavior 
 
 The mathematical and physical scope of these distinctions should be evaluated independently through technical analysis and experimental validation.
 
+--
+
 ## 3. Development of the McPeak Traveling Wave Equation
 
 McPeak distinguishes between the **McPeak Triangle Equation** and **the McPeak Traveling Wave Equation**.
@@ -128,21 +130,23 @@ The Traveling Wave Equation incorporates additional logic intended to account fo
 
 One of the developments associated with McPeak's work is a method for determining whether an angle should be interpreted within the first 180 degrees or within the remaining portion of the full cycle.
 
-His stated logic includes the relationship:
+**His stated logic includes the relationship:**
 
-θ={360∘−θ′,if sign⁡(Δy)=sign⁡(Δθ)θ′,otherwise$$\theta = \begin{cases} 360^\circ-\theta', & \text{if } \operatorname{sign}(\Delta y) = \operatorname{sign}(\Delta\theta) \\[6pt] \theta', & \text{otherwise} \end{cases}
+$$
+\theta =
+\begin{cases}
+360^\circ - \theta', & \text{if } \text{sign}(\Delta y) = \text{sign}(\Delta\theta), \\[6pt]
+\theta', & \text{otherwise}
+\end{cases}
+$$
 
 **Here:**
 
-θ′\theta' represents the initially calculated angle.
-
-θ\theta represents the angle after applying the directional rule.
-
-Δy\Delta y represents the change in measured magnitude.
-
-Δθ\Delta\theta represents the change in phase.
-
-The sign comparison is used to determine the appropriate angular interpretation.
+- **θ′** represents the initially calculated angle.
+- **θ** theta represents the angle after applying the directional rule.
+- **Δy** represents the change in measured magnitude.
+- **Δθ** represents the change in phase.
+- **The sign comparison is used to determine the appropriate angular interpretation.**
 
 McPeak has described this logic as a way to account for the direction in which a traveling wave progresses through its cycle.
 
@@ -150,13 +154,15 @@ His broader formulation also considers angular positions beyond 360 degrees.
 
 These developments form part of his ongoing effort to document a complete framework for analyzing traveling-wave behavior.
 
+---
+
 ## 4. Phase-Coherent Electromagnetic Systems
 
 A major focus of McPeak's professional work is phase-coherent electromagnetic systems.
 
 Phase coherence involves maintaining or analyzing consistent phase relationships between signals or electromagnetic processes.
 
-In complex electronic systems, phase relationships can be important to:
+**In complex electronic systems, phase relationships can be important to:**
 
 - Signal synchronization
 - Communication systems
@@ -166,13 +172,15 @@ In complex electronic systems, phase relationships can be important to:
 - Wave interference
 - Electronic control systems
 - Timing coordination
+- 
 McPeak's stated engineering approach emphasizes the role of phase relationships and temporal structure in system behavior.
 
 His professional materials describe work involving phase measurement, coherent detection, and system-level electromagnetic architectures.
 
 He has also described an interest in system designs that place greater emphasis on phase relationships rather than relying exclusively on increased signal gain.
-
 These areas represent the broader engineering context in which McPeak situates his traveling-wave concepts. (Dear L McPeak)
+
+---
 
 ## 5. Advanced Signal Detection and Measurement
 
@@ -191,11 +199,14 @@ Potentially relevant engineering fields include:
 - Signal intelligence
 - Electronic instrumentation
 - Electromagnetic measurement
+  
 McPeak has described an interest in methods that use phase relationships and signal structure to extract useful information from measured data.
 
-However, specific performance claims concerning signal detection, noise-floor improvements, or advantages over existing systems require independently documented measurements and experimental evidence.
+However, specific performance claims concerning signal detection, noise-floor improvements, or advantages over existing systems require independently documented measurements and experimental evidence. 
 
-The publicly available professional description establishes these as areas of stated technical interest rather than independently verified performance achievements. (Dear L McPeak)
+The publicly available professional description establishes these as areas of stated technical interest rather than independently verified performance achievements. 
+
+---
 
 ## 6. Government and Advanced Research Involvement
 
