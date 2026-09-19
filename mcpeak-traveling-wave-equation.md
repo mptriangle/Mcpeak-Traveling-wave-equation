@@ -313,7 +313,7 @@ The applicability of the approach depends on whether a measurable magnitude-to-p
 - Electron wave phenomena
 - Matter-wave interference
 - Atomic wave behavior
-- uantum oscillations
+- Quantum oscillations
 
 **Potential applications:**
 
