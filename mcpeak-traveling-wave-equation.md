@@ -16,7 +16,7 @@ The primary objective is to investigate **whether wave magnitude, measured relat
 
 This approach is intended to be applicable to multiple types of waves, including electromagnetic, electrical, mechanical, acoustic, optical, and other wave phenomena.
 
-Core objective: Explore whether the precision of magnitude measurements can support finer phase resolution than conventional time-slice-based measurements.
+**Core objective:** Explore whether the precision of magnitude measurements can support finer phase resolution than conventional time-slice-based measurements.
 
 ## 2. The Challenge of Time-Based Phase Measurement
 
