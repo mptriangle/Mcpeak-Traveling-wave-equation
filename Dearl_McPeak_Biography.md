@@ -14,7 +14,7 @@ He is the original creator of the McPeak Triangle Equation, a mathematical conce
 
 McPeak's professional interests encompass electromagnetic systems, electronic architectures, signal detection, energy transmission, and the application of geometric principles to advanced engineering problems.
 
-His work has included commercial, government, defense, and advanced research environments. His professional website identifies him as an advanced electromagnetic systems engineer and inventor, with technical interests spanning phase-coherent electronic systems, distributed electromagnetic architectures, and advanced detection and power systems. (Dear L McPeak)
+His work has included commercial, government, defense, and advanced research environments. His professional website identifies him as an advanced electromagnetic systems engineer and inventor, with technical interests spanning phase-coherent electronic systems, distributed electromagnetic architectures, and advanced detection and power systems.
 
 ---
 
@@ -43,11 +43,13 @@ Rather than focusing exclusively on conventional signal amplification or frequen
 
 His professional website describes his work as spanning commercial, government, defense, and advanced research applications. Specific projects, technical implementations, and results should be distinguished from the publicly documented portions of his professional record.
 
+---
+
 ## 2. Creation of the McPeak Triangle Equation in 2012
 
 ### The Original Engineering Problem
 
-**In 2012, Dearl McPeak began investigating a fundamental question:**
+**In 2012, Dearl McPeak investigated a fundamental question:**
 
 **How can the phase of a traveling wave be measured at any point in space?**
 
@@ -59,7 +61,7 @@ His objective was to develop a method that could relate a wave's magnitude to it
 
 ### The Development of the Geometric Concept
 
-**Per McPeak's account, he applied an analogy involving:**
+**McPeak applied an analogy involving:**
 
 **1.** A ruler used to measure physical distance.
 
@@ -67,7 +69,7 @@ His objective was to develop a method that could relate a wave's magnitude to it
 
 **3.** A traveling wave whose phase could be determined relative to that reference.
 
-After approximately four days of exploring the problem, he recognized that **a right triangle could provide a useful geometric representation of the relationship between wave magnitude and phase.**
+After four days of exploring the problem, he recognized that **a right triangle could provide a useful geometric representation of the relationship between wave magnitude and phase.**
 
 This insight led to the development of the McPeak Triangle concept.
 
