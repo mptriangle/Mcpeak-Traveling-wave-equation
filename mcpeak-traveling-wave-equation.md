@@ -37,7 +37,7 @@ $$
 | $T$ | Wave period |
 
 
-The period of a wave is:
+**The period of a wave is:**
 
 $$
 T = \frac{1}{f}
