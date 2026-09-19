@@ -24,8 +24,6 @@ In conventional wave analysis, phase differences can be determined by measuring 
 
 The relationship between phase and time is:
 
-The relationship between phase and time is:
-
 $$
 \Delta\theta = 360^\circ \frac{\Delta t}{T}
 $$
