@@ -256,53 +256,53 @@ The applicability of the approach depends on whether a measurable magnitude-to-p
 
 **Examples include:**
 
-Audible sound
-Ultrasonic waves
-Infrasound
-Acoustic pressure waves
-Underwater sound waves
+- Audible sound
+- Ultrasonic waves
+- Infrasound
+- Acoustic pressure waves
+- Underwater sound waves
 
 **Potential applications:**
 
-Acoustic sensing
-Ultrasonic imaging
-Sonar
-Structural inspection
-Vibration monitoring
+- Acoustic sensing
+- Ultrasonic imaging
+- Sonar
+- Structural inspection
+- Vibration monitoring
 
 
 ### 6.5 Optical Waves
 
 **Examples include:**
 
-Laser light
-Fiber-optic signals
-Coherent optical signals
-Interferometric light fields
+-Laser light
+-Fiber-optic signals
+-Coherent optical signals
+-Interferometric light fields
 
 **Potential applications:**
 
-Optical communications
-Interferometry
-Precision measurement
-Fiber-optic sensing
-Laser stabilization
+-Optical communications
+-Interferometry
+-Precision measurement
+-Fiber-optic sensing
+-Laser stabilization
 
 
 ### 6.6 Matter Waves and Quantum Systems
 
 **Examples include:**
 
-Electron wave phenomena
-Matter-wave interference
-Atomic wave behavior
-Quantum oscillations
+-Electron wave phenomena
+-Matter-wave interference
+-Atomic wave behavior
+-Quantum oscillations
 
 **Potential applications:**
 
-Quantum measurement research
-Matter-wave interferometry
-Quantum sensing
+-Quantum measurement research
+-Matter-wave interferometry
+-Quantum sensing
 
 **Note:**
 Applying the McPeak framework to quantum systems would require a formulation consistent with quantum mechanics and experimental validation.
