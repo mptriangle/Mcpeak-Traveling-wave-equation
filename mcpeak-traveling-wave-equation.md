@@ -163,11 +163,25 @@ $$
 
 **Where:**
 
+| **Symbol** | **Description** |
+|:---:|:---|
+| $\theta'$ | Initially calculated phase angle |
+| $\theta$ | Phase angle after applying the directional rule |
+| $\Delta y$ | Change in measured magnitude |
+| $\Delta\theta$ | Change in phase angle |
+
 This logic is intended to determine the appropriate angular interpretation based on the direction of the measured magnitude change and the phase change.
 
 The complete McPeak Traveling Wave framework also considers angular positions beyond 360 degrees.
 
 ### Distinction Between the Two Equations
+
+| **McPeak Triangle Equation** | **McPeak Traveling Wave Equation** |
+|:---|:---|
+| Establishes the foundational geometric relationship. | Builds upon the geometric relationship. |
+| Relates magnitude change to phase change. | Incorporates additional phase-direction logic. |
+| Uses a right-triangle representation. | Addresses angular interpretation across a complete cycle. |
+| Provides the foundation for further development. | Represents the broader traveling-wave framework. |
 
 ## 6. Types of Waves and Potential Applications
 
