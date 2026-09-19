@@ -29,7 +29,6 @@ $$
 $$
 
 Where:
-## Symbol	  ## Description
 $$
 \Delta\theta$$  & \textPhase difference
 $$
