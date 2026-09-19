@@ -29,7 +29,7 @@ $$
 $$
 
 Where:
-##Symbol	  ##Description
+## Symbol	  ## Description
 $$
 \Delta\theta$$  & \textPhase difference
 $$
