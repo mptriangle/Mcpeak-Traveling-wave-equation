@@ -81,7 +81,7 @@ He also established a reference position from which the wave's magnitude and pha
 
 ### The McPeak Triangle Equation
 
-The basic equation associated with his work is:
+**The basic equation associated with his work is:**
 
 **Δy=±Δθ⋅h⋅cos⁡(θ)**
 
@@ -172,13 +172,13 @@ Phase coherence involves maintaining or analyzing consistent phase relationships
 - Wave interference
 - Electronic control systems
 - Timing coordination
-- 
+  
 McPeak's stated engineering approach emphasizes the role of phase relationships and temporal structure in system behavior.
 
 His professional materials describe work involving phase measurement, coherent detection, and system-level electromagnetic architectures.
 
 He has also described an interest in system designs that place greater emphasis on phase relationships rather than relying exclusively on increased signal gain.
-These areas represent the broader engineering context in which McPeak situates his traveling-wave concepts. (Dear L McPeak)
+These areas represent the broader engineering context in which McPeak situates his traveling-wave concepts.
 
 ---
 
@@ -190,7 +190,7 @@ His professional website identifies signal detection, phase-coherent measurement
 
 These areas are relevant to applications in which engineers must identify, measure, or interpret signals under challenging conditions.
 
-Potentially relevant engineering fields include:
+**Potentially relevant engineering fields include:**
 
 - Radio-frequency systems
 - Radar
@@ -212,7 +212,7 @@ The publicly available professional description establishes these as areas of st
 
 According to McPeak's professional account, his work has extended into government-related research and advanced technology development.
 
-His published professional biography states that, in 2022, related system concepts and applications were used in the development of a product associated with U.S. Government research programs and MIT Lincoln Laboratory.
+His published professional biography states that, **in 2022**, related system concepts and applications were used in the development of a product associated with U.S. Government research programs and MIT Lincoln Laboratory.
 
 MIT Lincoln Laboratory is a federally funded research and development center that conducts research in advanced technology areas.
 
@@ -226,7 +226,9 @@ Where work involves proprietary information, contractual restrictions, or govern
 
 Consequently, the most appropriate public description is that McPeak has reported involvement in advanced research and technology-development activities associated with government research programs.
 
-His professional website provides the public account of the 2022 connection but does not, by itself, establish the full technical or contractual history of the work. (Dear L McPeak)
+His professional website provides the public account of the 2022 connection but does not, by itself, establish the full technical or contractual history of the work. 
+
+---
 
 ## 7. Research Interests in Wireless Energy and Electromagnetic Power Systems
 
@@ -234,18 +236,21 @@ McPeak has expressed interest in the use of electromagnetic systems for energy t
 
 His professional materials identify long-range electromagnetic energy transfer and advanced power systems among his areas of interest.
 
-These interests include the possibility of using controlled electromagnetic interactions to:
+**These interests include the possibility of using controlled electromagnetic interactions to:**
 
 - Transfer energy between locations.
 - Coordinate energy within distributed systems.
 - Explore wireless and hybrid energy-delivery architectures.
 - Investigate relationships between phase, signal behavior, and energy transfer.
 - Develop new approaches to electromagnetic system control.
+  
 Wireless power transmission is an established area of electrical engineering involving concepts such as electromagnetic coupling, resonant systems, radiation, and power-conversion efficiency.
 
 McPeak's work is presented within this broader field, with an emphasis on exploring alternative system architectures and phase relationships.
 
 Any specific claims concerning transmission distance, efficiency, or novel physical effects should be supported by technical documentation and independently reproducible experiments.
+
+---
 
 ## 8. Distributed Electromagnetic Systems and Control
 
@@ -253,7 +258,7 @@ McPeak's professional interests also include distributed electronic and electrom
 
 A distributed system involves multiple components or subsystems that operate across different locations while coordinating their activities.
 
-Such systems can be relevant to:
+**Such systems can be relevant to:**
 
 - Distributed sensing
 - Remote measurement
@@ -262,15 +267,18 @@ Such systems can be relevant to:
 - Synchronization
 - Signal coordination
 - Distributed energy systems
+  
 McPeak has described an interest in using phase relationships and temporal geometry to support coordinated operation among distributed electronic systems.
 
 His professional materials also reference predictive phase alignment and adaptive system behavior as areas of interest.
 
-These concepts reflect his broader engineering focus on the relationships between physical systems, signal timing, and electromagnetic behavior. (Dear L McPeak)
+These concepts reflect his broader engineering focus on the relationships between physical systems, signal timing, and electromagnetic behavior.
+
+---
 
 ## 9. An Engineering Philosophy Based on Measurement and Geometry
 
-A defining feature of McPeak's work is his stated interest in using geometric relationships to understand physical phenomena.
+A defining feature of McPeak's work is his stated interest in using **geometric relationships to understand physical phenomena.**
 
 The McPeak Triangle concept originated from an effort to create a more direct relationship between measurable wave magnitude and phase.
 
@@ -306,7 +314,10 @@ McPeak's stated objective is to explore whether his concepts can contribute to a
 - Energy transfer
 - Distributed systems
 - Electronic control
+
 The practical significance of these applications depends on the specific implementation and supporting evidence.
+
+---
 
 ## 10. Technical Documentation and Public Disclosure
 
@@ -316,22 +327,15 @@ His publication efforts have included developing technical descriptions of the M
 
 He has also been working on explanatory materials intended for websites, GitHub, and other public documentation platforms.
 
-These materials are designed to clarify:
+**These materials are designed to clarify:**
 
-The origin of the McPeak Triangle concept.
-
+- **1** The origin of the McPeak Triangle concept.
 The mathematical basis of the equation.
-
 The distinction between the Triangle Equation and the Traveling Wave Equation.
-
 The process used to calculate phase-related quantities.
-
 The geometric meaning of the variables.
-
 The intended applications of the concepts.
-
 The limitations of the approach.
-
 The relationship between the publicly disclosed equation and any separate technical implementations.
 
 McPeak's current documentation work represents an effort to make his technical ideas more accessible to engineers, researchers, students, and members of the general public.
