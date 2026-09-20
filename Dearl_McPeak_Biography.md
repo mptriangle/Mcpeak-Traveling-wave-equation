@@ -116,7 +116,7 @@ His stated objective is to use geometric relationships to examine wave behavior 
 
 The mathematical and physical scope of these distinctions should be evaluated independently through technical analysis and experimental validation.
 
---
+---
 
 ## 3. Development of the McPeak Traveling Wave Equation
 
