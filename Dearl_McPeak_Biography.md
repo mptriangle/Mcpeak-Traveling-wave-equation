@@ -329,20 +329,24 @@ He has also been working on explanatory materials intended for websites, GitHub,
 
 **These materials are designed to clarify:**
 
-- **1** The origin of the McPeak Triangle concept.
-The mathematical basis of the equation.
-The distinction between the Triangle Equation and the Traveling Wave Equation.
-The process used to calculate phase-related quantities.
-The geometric meaning of the variables.
-The intended applications of the concepts.
-The limitations of the approach.
-The relationship between the publicly disclosed equation and any separate technical implementations.
+**1** The origin of the McPeak Triangle concept.
+**2** The mathematical basis of the equation.
+**3** The distinction between the Triangle Equation and the Traveling Wave Equation.
+**4** The process used to calculate phase-related quantities.
+**5** The geometric meaning of the variables.
+**6** The intended applications of the concepts.
+**7** The limitations of the approach.
+**8** The relationship between the publicly disclosed equation and any separate technical implementations.
 
 McPeak's current documentation work represents an effort to make his technical ideas more accessible to engineers, researchers, students, and members of the general public.
 
 A careful distinction between publicly disclosed mathematics, subsequent technical developments, and any proprietary applications is essential to accurately documenting his work.
 
+---
+
 ## 11. Professional Accomplishments
+
+The following accomplishments can be attributed to McPeak based on his own published professional materials and the history of his technical work.
 
 | Accomplishment | Description |
 |---|---|
@@ -356,13 +360,17 @@ A careful distinction between publicly disclosed mathematics, subsequent technic
 | Technical publication and documentation | Developed public educational and technical materials explaining his equations and their intended applications. |
 | Independent invention and innovation | Pursued original engineering concepts intended to address challenges in electromagnetic measurement and system design. |
 
+The table summarizes documented or self-reported accomplishments. It does not establish independent verification of every technical claim or establish the legal status of intellectual-property rights.
+
+---
+
 ## 12. Continuing Work and Future Objectives
 
 Dearl McPeak's continuing work focuses on formalizing, explaining, and documenting his technical concepts.
 
 A central objective is to create a coherent body of material that explains the McPeak Triangle Equation and the McPeak Traveling Wave Equation in a manner that can be understood by both technical and nontechnical audiences.
 
-His planned documentation efforts involve:
+**His planned documentation efforts involve:**
 
 - Mathematical explanations.
 - Geometric diagrams.
@@ -372,7 +380,10 @@ His planned documentation efforts involve:
 - Descriptions of potential engineering applications.
 - Discussions of limitations and measurement requirements.
 - Public technical documentation through websites and repositories.
+
 By publishing this material, McPeak seeks to establish a clear public record of his work and provide a foundation for further discussion, analysis, and potential research.
+
+---
 
 ## 13. Personal Legacy as an Inventor and Engineer
 
@@ -384,17 +395,19 @@ That investigation led to a mathematical concept that he subsequently expanded i
 
 His professional interests extend beyond the original equation into electromagnetic systems, advanced measurement, signal detection, distributed architectures, and energy-related applications.
 
-The defining feature of his work is the effort to connect mathematical geometry, measurable wave characteristics, and practical electronic system design.
+The defining feature of his work is the effort to connect **mathematical geometry, measurable wave characteristics, and practical electronic system design.**
 
 As McPeak continues documenting his inventions and technical ideas, his principal contribution to the public record is the development and presentation of the McPeak Triangle concept and its associated traveling-wave framework.
 
 The long-term significance of these contributions will depend on continued mathematical examination, engineering implementation, independent testing, and the extent to which the concepts demonstrate useful capabilities in practical systems.
 
+---
+
 ## Short Professional Biography
 
 ### Dearl McPeak
 
-Advanced Systems Engineer | Consultant | Inventor | Creator of the McPeak Traveling Wave Equation
+**Advanced Systems Engineer | Consultant | Inventor | Creator of the McPeak Traveling Wave Equation**
 
 Dearl McPeak is an advanced systems engineer, consultant, and inventor specializing in electromagnetic systems, phase-coherent electronics, advanced signal measurement, and distributed electronic architectures.
 
