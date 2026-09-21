@@ -64,7 +64,7 @@ $$
 
 The initial inverse-cosine calculation does not, by itself, distinguish between all possible angular positions around a full circle.
 
-The McPeak formulation uses the sign relationship between $\Delta y$ and $\Delta\theta$ to select the corresponding angular position relative to the reference.
+The McPeak formulation uses the sign relationship between $$\Delta y$ and $\Delta\theta$$ to select the corresponding angular position relative to the reference.
 
 The stated condition is:
 
