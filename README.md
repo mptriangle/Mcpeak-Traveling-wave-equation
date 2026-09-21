@@ -78,7 +78,7 @@ The stated condition is:
 \end{cases}
 ```
 
-This condition extends the initial $0^\circ$–$180^\circ$ result to an angular position within the range $0^\circ$–$360^\circ$, subject to the sign conventions used by the system.
+This condition extends the initial $$0^\circ$–$180^\circ$$ result to an angular position within the range $$0^\circ$–$360^\circ$$, subject to the sign conventions used by the system.
 
 ### Step 4 — Calculate Angular Displacement
 
