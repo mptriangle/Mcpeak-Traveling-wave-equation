@@ -1,4 +1,4 @@
-﻿# The McPeak Traveling Wave Framework: A Geometric Gift to Open Science
+﻿# The McPeak Traveling Wave Framework: A Geometric Gift to Open Science 
 
 **Formulated by:** Dearl McPeak  
 **Origin Focus:** Developed in 2012 to engineer the world’s first highly efficient, long-range indoor wireless power transmitter at microwave frequencies. This framework served as the foundational math behind Omnilectric, which subsequently became Ossia's "Cota" platform.
