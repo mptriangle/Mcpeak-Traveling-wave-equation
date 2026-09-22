@@ -133,11 +133,13 @@ One of the developments associated with McPeak's work is a method for determinin
 **His stated logic includes the relationship:**
 
 $$
-\theta =
-\begin{cases}
-360^\circ - \theta', & \Delta y \text{ and } \Delta\theta \text{ have the same sign} \\
-\theta', & \text{otherwise}
-\end{cases}
+\theta = 360^\circ - \theta'
+\quad \text{if } \Delta y \text{ and } \Delta\theta \text{ have the same sign}
+$$
+
+$$
+\theta = \theta'
+\quad \text{otherwise}
 $$
 
 **Here:**
