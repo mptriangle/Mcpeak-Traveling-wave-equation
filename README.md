@@ -114,7 +114,7 @@ The meaning of “forward” and “unwrapping” must be defined by the coordin
 
 The McPeak approach permits $\Delta\theta$ to accumulate rather than automatically resetting after one complete revolution.
 
-For example, accumulated angular displacement may be represented as:
+For example, accumulated angular **N** displacement may be represented as:
 
 $$
 360^\circ,\quad720^\circ,\quad1080^\circ,\ldots
