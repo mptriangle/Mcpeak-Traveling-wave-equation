@@ -135,7 +135,7 @@ One of the developments associated with McPeak's work is a method for determinin
 $$
 \theta =
 \begin{cases}
-360^\circ - \theta', & \text{if } \mathrm{sign}(\Delta y) = \mathrm{sign}(\Delta\theta), \\[6pt]
+360^\circ - \theta', & \text{if } \Delta y \text{ and } \Delta\theta \text{ have the same sign}, \\[6pt]
 \theta', & \text{otherwise}
 \end{cases}
 $$
