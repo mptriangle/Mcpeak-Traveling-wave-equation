@@ -26,7 +26,7 @@ The **McPeak Traveling Wave Equation** is a geometric, magnitude-based framework
 
 The fundamental relationship is:
 
-$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cdot \cos(\theta)} $$
+$$ \Delta y = \pm \Delta\theta \cdot h \cdot \cos(\theta) $$
 
 The McPeak approach connects traveling-wave characteristics directly to the geometry of a right triangle. Rather than retaining time as an explicit variable in the traveling-wave relationship, the method uses measured **wave magnitudes and their geometric relationships** to determine angular displacement.
 
@@ -85,7 +85,7 @@ This condition extends the initial $0^\circ\text{–}180^\circ$ result to an ang
 ### Step 4 — Calculate Angular Displacement
 Using the true angular position ($\theta$), the fundamental McPeak relationship acts as follows:
 
-$$ \boxed{\Delta y = \pm \Delta\theta \cdot h \cdot \cos(\theta)} $$
+$$ \Delta y = \pm \Delta\theta \cdot h \cdot \cos(\theta) $$
 
 Where:
 * $\Delta y$: Change in the y-direction
