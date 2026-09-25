@@ -58,7 +58,7 @@ The inverse-cosine operation produces an angle within the range $0^\circ \leq \t
 ### Step 3 — Determine the True Angle From 0° to 360°
 The initial inverse-cosine calculation does not, by itself, distinguish between all possible angular positions around a full circle. The McPeak formulation uses the sign relationship between $\Delta y$ and $\Delta\theta$ as an instantaneous **Universal Sign Logic Gate** to select the corresponding angular position relative to the reference:
 
-```math
+$$
 \theta =
 \begin{cases}
 360^\circ-\theta',
@@ -66,7 +66,7 @@ The initial inverse-cosine calculation does not, by itself, distinguish between 
 \theta',
 & \text{otherwise}
 \end{cases}
-```
+$$
 
 This condition extends the initial $0^\circ\text{–}180^\circ$ result to an angular position within the range $0^\circ\text{–}360^\circ$ space-efficiently and instantaneously.
 
