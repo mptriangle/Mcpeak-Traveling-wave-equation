@@ -63,7 +63,7 @@ The calculation begins with measurements of three quantities: Traveling-wave mag
 ### Step 2 — Calculate the Initial Angle
 The initial angular measurement is calculated from the magnitude relationship:
 
-$$ \boxed{\theta'=\arccos\left(\frac{\text{adjacent}}{\text{hypotenuse}}\right)} $$
+$$ \theta'=\arccos\left(\frac{\text{adjacent}}{\text{hypotenuse}}\right) $$
 
 The inverse-cosine operation produces an angle within the range $0^\circ \leq \theta' \leq 180^\circ$.
 
